@@ -10,7 +10,7 @@ hamburgerMenu.addEventListener("click", () => {
   popup.style.opacity = "1";
   menuClose.classList.remove("display-none");
   hamburgerMenu.classList.add("display-none");
-  popup.style.zIndex = "2";
+  popup.style.zIndex = "5";
 });
 
 menuClose.addEventListener("click", () => {
