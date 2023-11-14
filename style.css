@@ -108,12 +108,12 @@ a {
   opacity: 0;
 }
 
-.main-menu li:hover {
-  color: #2d314d;
-}
-
 .main-menu li:hover::after {
   opacity: 1;
+}
+
+.main-menu li:hover {
+  color: #2d314d;
 }
 
 .popup {
