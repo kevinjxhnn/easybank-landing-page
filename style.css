@@ -396,14 +396,17 @@ a {
     text-align: center;
     width: 100%;
   }
+
   .main-menu li {
     margin-top: auto 0;
     position: relative;
     margin-right: 0;
   }
+
   .main-menu li {
     margin-bottom: 1.3rem;
   }
+
   .main-menu li a {
     color: #2d314d;
   }
@@ -499,19 +502,14 @@ a {
 
   .footer {
     flex-direction: column;
-
     justify-content: center;
-
     align-items: center;
     text-align: center;
   }
   .footer-intro {
     display: flex;
-
     flex-direction: column;
-
     justify-content: center;
-
     align-items: center;
   }
 
