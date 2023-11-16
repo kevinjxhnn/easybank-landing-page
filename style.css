@@ -325,7 +325,7 @@ a {
 
   .img-container img.phone {
     transform: scale(0.7);
-    right: -9rem;
+    right: -7rem;
     top: -10rem;
     transition: all 0.3s;
   }
