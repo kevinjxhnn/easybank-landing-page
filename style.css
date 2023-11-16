@@ -343,7 +343,6 @@ a {
     );
     position: absolute;
     opacity: 0;
-    backface-visibility: hidden;
   }
 
   .features-content {
